@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>bible search - Test Page - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="bible_search">263247432fd3d0109f9751072799b6a4</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>charmaine.tham</sys_created_by>
+        <sys_created_on>2020-09-21 18:24:03</sys_created_on>
+        <sys_id>b6324b432fd3d0109f9751072799b6e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bible search - Test Page - Container 1</sys_name>
+        <sys_package display_value="Bible" source="x_174474_bible">5737fe872f93d0109f9751072799b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bible">5737fe872f93d0109f9751072799b6fd</sys_scope>
+        <sys_update_name>sp_container_b6324b432fd3d0109f9751072799b6e0</sys_update_name>
+        <sys_updated_by>charmaine.tham</sys_updated_by>
+        <sys_updated_on>2020-09-21 18:24:03</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

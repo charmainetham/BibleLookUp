@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE">
+        <element display_value="Analytics Center Button">aaf73a8b2f93d0109f9751072799b6fb</element>
+        <group/>
+        <role display_value="pa_viewer" name="pa_viewer">a90d30b3bf101100b96dac808c073950</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>charmaine.tham</sys_created_by>
+        <sys_created_on>2020-09-21 17:39:16</sys_created_on>
+        <sys_id>faf77a8b2f93d0109f9751072799b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Bible" source="x_174474_bible">5737fe872f93d0109f9751072799b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bible">5737fe872f93d0109f9751072799b6fd</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_faf77a8b2f93d0109f9751072799b605</sys_update_name>
+        <sys_updated_by>charmaine.tham</sys_updated_by>
+        <sys_updated_on>2020-09-21 17:39:16</sys_updated_on>
+    </sys_ux_page_element_m2m_role>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Bible" max_length="40" name="x_174474_bible_bible" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Verse" max_length="1000" name="verse" type="string"/>
+    </element>
+</database>
