@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>bible_search</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>true</public>
+        <roles/>
+        <seo_script/>
+        <short_description>Bible Search</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>charmaine.tham</sys_created_by>
+        <sys_created_on>2020-09-21 18:20:07</sys_created_on>
+        <sys_id>d0314f032fd3d0109f9751072799b6e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bible_search</sys_name>
+        <sys_package display_value="Bible" source="x_174474_bible">5737fe872f93d0109f9751072799b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bible">5737fe872f93d0109f9751072799b6fd</sys_scope>
+        <sys_update_name>sp_page_d0314f032fd3d0109f9751072799b6e4</sys_update_name>
+        <sys_updated_by>charmaine.tham</sys_updated_by>
+        <sys_updated_on>2020-09-21 18:20:07</sys_updated_on>
+        <title>Bible Search</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=d0314f032fd3d0109f9751072799b6e4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bible">5737fe872f93d0109f9751072799b6fd</application>
+        <file_path/>
+        <instance_id>eb2f46b89bb78b04bb2e6b8af359ff58</instance_id>
+        <instance_name>dev47795</instance_name>
+        <name>sp_page_d0314f032fd3d0109f9751072799b6e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><id>bible_search</id><internal>false</internal><omit_watcher>false</omit_watcher><public>true</public><roles/><seo_script/><short_description>Bible Search</short_description><sys_class_name>sp_page</sys_class_name><sys_created_by>charmaine.tham</sys_created_by><sys_created_on>2020-09-21 18:20:07</sys_created_on><sys_id>d0314f032fd3d0109f9751072799b6e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>bible_search</sys_name><sys_package display_value="Bible" source="x_174474_bible">5737fe872f93d0109f9751072799b6fd</sys_package><sys_policy/><sys_scope display_value="Bible">5737fe872f93d0109f9751072799b6fd</sys_scope><sys_update_name>sp_page_d0314f032fd3d0109f9751072799b6e4</sys_update_name><sys_updated_by>charmaine.tham</sys_updated_by><sys_updated_on>2020-09-21 18:20:07</sys_updated_on><title>Bible Search</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=d0314f032fd3d0109f9751072799b6e4"/></record_update>]]></payload>
+        <payload_hash>-1561935634</payload_hash>
+        <record_name>bible_search</record_name>
+        <reverted_from/>
+        <source>161af20f2f93d0109f9751072799b647</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>charmaine.tham</sys_created_by>
+        <sys_created_on>2020-09-21 18:20:07</sys_created_on>
+        <sys_id>c9514fcf2f93d0109f9751072799b6bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174b1e4f9dd0000001</sys_recorded_at>
+        <sys_updated_by>charmaine.tham</sys_updated_by>
+        <sys_updated_on>2020-09-21 18:20:07</sys_updated_on>
+        <type>Page</type>
+        <update_guid>05514fcf6993d0107721a14c5ff282bb</update_guid>
+        <update_guid_history>05514fcf6993d0107721a14c5ff282bb:-1561935634</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="bible_search">b1f1c7432fd3d0109f9751072799b647</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>charmaine.tham</sys_created_by>
+        <sys_created_on>2020-09-21 18:22:54</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>287711dad8fb4d249bff4a480c8771e4</sys_id>
+        <sys_metadata>d0314f032fd3d0109f9751072799b6e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bible_search</sys_name>
+        <sys_package display_value="Bible" source="x_174474_bible">5737fe872f93d0109f9751072799b6fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bible">5737fe872f93d0109f9751072799b6fd</sys_scope>
+        <sys_scope_delete display_value="">24bc934a5c514ea486b3585ed372b3e1</sys_scope_delete>
+        <sys_update_name>sp_page_d0314f032fd3d0109f9751072799b6e4</sys_update_name>
+        <sys_update_version display_value="sp_page_d0314f032fd3d0109f9751072799b6e4">c9514fcf2f93d0109f9751072799b6bb</sys_update_version>
+        <sys_updated_by>charmaine.tham</sys_updated_by>
+        <sys_updated_on>2020-09-21 18:22:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
